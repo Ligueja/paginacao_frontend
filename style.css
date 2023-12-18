@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    background-color: gray;
+}
+
+.tabela {
+    background-color: bisque;
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+th, td {
+    border: 2px black solid;
+    text-align: center;
+
+}
+
+div {
+    margin-left: 20px;
+}
+
+#menu_paginacao {
+    margin-top: 5px;
+}
+
+
